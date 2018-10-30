@@ -1,2 +1,2 @@
 # webpack-subresource-integrity-typings
-TypeScript definition for webpack-subresource-integrity
+Manage issues related to [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) typings (i.e. any that were added to DefinitelyTyped) here in this repo.
